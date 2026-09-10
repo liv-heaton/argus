@@ -1,0 +1,53 @@
+[0.006s] Invoking command in '/home/liv/argos_ws/build/ur_simulation_gz': CMAKE_PREFIX_PATH=/home/liv/argos_ws/install/ur_description:/home/liv/argos_ws/install/ur_simulation_gazebo:/home/liv/helios_ws/install/fire_sensors:/home/liv/helios_ws/install/fire_satellite:/home/liv/helios_ws/install/fire_drone:/home/liv/helios_ws/install/fire_autonomy:/home/liv/helios_ws/install/41068_ignition_bringup:/home/liv/41068_ws/install/41068_ignition_bringup:/home/liv/helios_ws/install/fire_sim:/opt/ros/humble /usr/bin/cmake /home/liv/argos_ws/src/ur_simulation_gz/ur_simulation_gz -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/liv/argos_ws/install/ur_simulation_gz
+[0.080s] -- The C compiler identification is GNU 11.4.0
+[0.134s] -- The CXX compiler identification is GNU 11.4.0
+[0.139s] -- Detecting C compiler ABI info
+[0.203s] -- Detecting C compiler ABI info - done
+[0.212s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.212s] -- Detecting C compile features
+[0.212s] -- Detecting C compile features - done
+[0.215s] -- Detecting CXX compiler ABI info
+[0.283s] -- Detecting CXX compiler ABI info - done
+[0.293s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.293s] -- Detecting CXX compile features
+[0.294s] -- Detecting CXX compile features - done
+[0.301s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.405s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.448s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.468s] -- Found launch_testing_ament_cmake: 1.0.14 (/opt/ros/humble/share/launch_testing_ament_cmake/cmake)
+[0.470s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[0.484s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[0.494s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[0.494s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.494s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[0.494s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[0.510s] -- Found PythonExtra: .so  
+[0.511s] -- Found ament_cmake_pytest: 1.3.14 (/opt/ros/humble/share/ament_cmake_pytest/cmake)
+[0.548s] -- Configuring done
+[0.549s] -- Generating done
+[0.549s] -- Build files have been written to: /home/liv/argos_ws/build/ur_simulation_gz
+[0.554s] Invoked command in '/home/liv/argos_ws/build/ur_simulation_gz' returned '0': CMAKE_PREFIX_PATH=/home/liv/argos_ws/install/ur_description:/home/liv/argos_ws/install/ur_simulation_gazebo:/home/liv/helios_ws/install/fire_sensors:/home/liv/helios_ws/install/fire_satellite:/home/liv/helios_ws/install/fire_drone:/home/liv/helios_ws/install/fire_autonomy:/home/liv/helios_ws/install/41068_ignition_bringup:/home/liv/41068_ws/install/41068_ignition_bringup:/home/liv/helios_ws/install/fire_sim:/opt/ros/humble /usr/bin/cmake /home/liv/argos_ws/src/ur_simulation_gz/ur_simulation_gz -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/liv/argos_ws/install/ur_simulation_gz
+[0.554s] Invoking command in '/home/liv/argos_ws/build/ur_simulation_gz': CMAKE_PREFIX_PATH=/home/liv/argos_ws/install/ur_description:/home/liv/argos_ws/install/ur_simulation_gazebo:/home/liv/helios_ws/install/fire_sensors:/home/liv/helios_ws/install/fire_satellite:/home/liv/helios_ws/install/fire_drone:/home/liv/helios_ws/install/fire_autonomy:/home/liv/helios_ws/install/41068_ignition_bringup:/home/liv/41068_ws/install/41068_ignition_bringup:/home/liv/helios_ws/install/fire_sim:/opt/ros/humble /usr/bin/cmake --build /home/liv/argos_ws/build/ur_simulation_gz -- -j24 -l24
+[0.589s] Invoked command in '/home/liv/argos_ws/build/ur_simulation_gz' returned '0': CMAKE_PREFIX_PATH=/home/liv/argos_ws/install/ur_description:/home/liv/argos_ws/install/ur_simulation_gazebo:/home/liv/helios_ws/install/fire_sensors:/home/liv/helios_ws/install/fire_satellite:/home/liv/helios_ws/install/fire_drone:/home/liv/helios_ws/install/fire_autonomy:/home/liv/helios_ws/install/41068_ignition_bringup:/home/liv/41068_ws/install/41068_ignition_bringup:/home/liv/helios_ws/install/fire_sim:/opt/ros/humble /usr/bin/cmake --build /home/liv/argos_ws/build/ur_simulation_gz -- -j24 -l24
+[0.599s] Invoking command in '/home/liv/argos_ws/build/ur_simulation_gz': CMAKE_PREFIX_PATH=/home/liv/argos_ws/install/ur_description:/home/liv/argos_ws/install/ur_simulation_gazebo:/home/liv/helios_ws/install/fire_sensors:/home/liv/helios_ws/install/fire_satellite:/home/liv/helios_ws/install/fire_drone:/home/liv/helios_ws/install/fire_autonomy:/home/liv/helios_ws/install/41068_ignition_bringup:/home/liv/41068_ws/install/41068_ignition_bringup:/home/liv/helios_ws/install/fire_sim:/opt/ros/humble /usr/bin/cmake --install /home/liv/argos_ws/build/ur_simulation_gz
+[0.608s] -- Install configuration: ""
+[0.608s] -- Execute custom install script
+[0.608s] -- Symlinking: /home/liv/argos_ws/install/ur_simulation_gz/share/ur_simulation_gz/config/ur_controllers.yaml
+[0.615s] -- Symlinking: /home/liv/argos_ws/install/ur_simulation_gz/share/ur_simulation_gz/launch/ur_sim_control.launch.py
+[0.622s] -- Symlinking: /home/liv/argos_ws/install/ur_simulation_gz/share/ur_simulation_gz/launch/ur_sim_moveit.launch.py
+[0.631s] -- Symlinking: /home/liv/argos_ws/install/ur_simulation_gz/share/ament_index/resource_index/package_run_dependencies/ur_simulation_gz
+[0.636s] -- Symlinking: /home/liv/argos_ws/install/ur_simulation_gz/share/ament_index/resource_index/parent_prefix_path/ur_simulation_gz
+[0.642s] -- Symlinking: /home/liv/argos_ws/install/ur_simulation_gz/share/ur_simulation_gz/environment/ament_prefix_path.sh
+[0.647s] -- Symlinking: /home/liv/argos_ws/install/ur_simulation_gz/share/ur_simulation_gz/environment/ament_prefix_path.dsv
+[0.653s] -- Symlinking: /home/liv/argos_ws/install/ur_simulation_gz/share/ur_simulation_gz/environment/path.sh
+[0.659s] -- Symlinking: /home/liv/argos_ws/install/ur_simulation_gz/share/ur_simulation_gz/environment/path.dsv
+[0.664s] -- Symlinking: /home/liv/argos_ws/install/ur_simulation_gz/share/ur_simulation_gz/local_setup.bash
+[0.671s] -- Symlinking: /home/liv/argos_ws/install/ur_simulation_gz/share/ur_simulation_gz/local_setup.sh
+[0.676s] -- Symlinking: /home/liv/argos_ws/install/ur_simulation_gz/share/ur_simulation_gz/local_setup.zsh
+[0.682s] -- Symlinking: /home/liv/argos_ws/install/ur_simulation_gz/share/ur_simulation_gz/local_setup.dsv
+[0.686s] -- Symlinking: /home/liv/argos_ws/install/ur_simulation_gz/share/ur_simulation_gz/package.dsv
+[0.692s] -- Symlinking: /home/liv/argos_ws/install/ur_simulation_gz/share/ament_index/resource_index/packages/ur_simulation_gz
+[0.697s] -- Symlinking: /home/liv/argos_ws/install/ur_simulation_gz/share/ur_simulation_gz/cmake/ur_simulation_gzConfig.cmake
+[0.703s] -- Symlinking: /home/liv/argos_ws/install/ur_simulation_gz/share/ur_simulation_gz/cmake/ur_simulation_gzConfig-version.cmake
+[0.707s] -- Symlinking: /home/liv/argos_ws/install/ur_simulation_gz/share/ur_simulation_gz/package.xml
+[0.713s] Invoked command in '/home/liv/argos_ws/build/ur_simulation_gz' returned '0': CMAKE_PREFIX_PATH=/home/liv/argos_ws/install/ur_description:/home/liv/argos_ws/install/ur_simulation_gazebo:/home/liv/helios_ws/install/fire_sensors:/home/liv/helios_ws/install/fire_satellite:/home/liv/helios_ws/install/fire_drone:/home/liv/helios_ws/install/fire_autonomy:/home/liv/helios_ws/install/41068_ignition_bringup:/home/liv/41068_ws/install/41068_ignition_bringup:/home/liv/helios_ws/install/fire_sim:/opt/ros/humble /usr/bin/cmake --install /home/liv/argos_ws/build/ur_simulation_gz

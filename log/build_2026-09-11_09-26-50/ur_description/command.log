@@ -1,0 +1,2 @@
+Invoking command in '/home/liv/argus_ws/build/ur_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/liv/helios_ws/install/fire_sim:/opt/ros/humble /usr/bin/cmake --build /home/liv/argus_ws/build/ur_description -- -j24 -l24
+Invoked command in '/home/liv/argus_ws/build/ur_description' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/liv/helios_ws/install/fire_sim:/opt/ros/humble /usr/bin/cmake --build /home/liv/argus_ws/build/ur_description -- -j24 -l24

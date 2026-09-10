@@ -1,0 +1,1 @@
+/home/liv/argos_ws/src/ur_simulation_gz/ur_simulation_gz/launch/ur_sim_control.launch.py
