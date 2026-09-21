@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20260921-1307-Experimental"
+	Name="raspberry"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="11.4.0"
+	OSName="Linux"
+	Hostname="raspberry"
+	OSRelease="6.8.0-138-generic"
+	OSVersion="#138~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  7 13:43:15 UTC "
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="183"
+	ProcessorCacheSize="30720"
+	NumberOfLogicalCPU="24"
+	NumberOfPhysicalCPU="16"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15591"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="800.114"
+	>
+	<Testing>
+		<StartDateTime>Sep 21 23:07 AEST</StartDateTime>
+		<StartTestTime>1789996070</StartTestTime>
+		<TestList/>
+		<EndDateTime>Sep 21 23:07 AEST</EndDateTime>
+		<EndTestTime>1789996070</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

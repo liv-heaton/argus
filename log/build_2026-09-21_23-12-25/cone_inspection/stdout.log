@@ -1,0 +1,27 @@
+running develop
+running egg_info
+creating cone_inspection.egg-info
+writing cone_inspection.egg-info/PKG-INFO
+writing dependency_links to cone_inspection.egg-info/dependency_links.txt
+writing entry points to cone_inspection.egg-info/entry_points.txt
+writing requirements to cone_inspection.egg-info/requires.txt
+writing top-level names to cone_inspection.egg-info/top_level.txt
+writing manifest file 'cone_inspection.egg-info/SOURCES.txt'
+reading manifest file 'cone_inspection.egg-info/SOURCES.txt'
+writing manifest file 'cone_inspection.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/liv/argos_ws/install/cone_inspection/lib/python3.10/site-packages/cone-inspection.egg-link (link to .)
+
+Installed /home/liv/argos_ws/build/cone_inspection
+running symlink_data
+creating /home/liv/argos_ws/install/cone_inspection/share/ament_index
+creating /home/liv/argos_ws/install/cone_inspection/share/ament_index/resource_index
+creating /home/liv/argos_ws/install/cone_inspection/share/ament_index/resource_index/packages
+symbolically linking /home/liv/argos_ws/build/cone_inspection/resource/cone_inspection -> /home/liv/argos_ws/install/cone_inspection/share/ament_index/resource_index/packages
+symbolically linking /home/liv/argos_ws/build/cone_inspection/package.xml -> /home/liv/argos_ws/install/cone_inspection/share/cone_inspection
+creating /home/liv/argos_ws/install/cone_inspection/share/cone_inspection/launch
+symbolically linking /home/liv/argos_ws/build/cone_inspection/launch/demo.launch.py -> /home/liv/argos_ws/install/cone_inspection/share/cone_inspection/launch
+creating /home/liv/argos_ws/install/cone_inspection/share/cone_inspection/urdf
+symbolically linking /home/liv/argos_ws/build/cone_inspection/urdf/ur3_cell.urdf.xacro -> /home/liv/argos_ws/install/cone_inspection/share/cone_inspection/urdf
+creating /home/liv/argos_ws/install/cone_inspection/share/cone_inspection/rviz
+symbolically linking /home/liv/argos_ws/build/cone_inspection/rviz/demo.rviz -> /home/liv/argos_ws/install/cone_inspection/share/cone_inspection/rviz
