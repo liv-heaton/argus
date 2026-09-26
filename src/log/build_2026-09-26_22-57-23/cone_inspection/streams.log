@@ -1,0 +1,29 @@
+[0.527s] Invoking command in '/home/liv/argos_ws/src/build/cone_inspection': AMENT_PREFIX_PATH=/home/liv/argos_ws/src/install/ur_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/liv/argos_ws/src/install/ur_description:${CMAKE_PREFIX_PATH} PYTHONPATH=/home/liv/argos_ws/src/build/cone_inspection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/liv/argos_ws/src/install/cone_inspection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/liv/argos_ws/src/build/cone_inspection/build --no-deps symlink_data
+[0.659s] running develop
+[0.739s] running egg_info
+[0.740s] creating cone_inspection.egg-info
+[0.740s] writing cone_inspection.egg-info/PKG-INFO
+[0.740s] writing dependency_links to cone_inspection.egg-info/dependency_links.txt
+[0.740s] writing entry points to cone_inspection.egg-info/entry_points.txt
+[0.740s] writing requirements to cone_inspection.egg-info/requires.txt
+[0.740s] writing top-level names to cone_inspection.egg-info/top_level.txt
+[0.740s] writing manifest file 'cone_inspection.egg-info/SOURCES.txt'
+[0.740s] reading manifest file 'cone_inspection.egg-info/SOURCES.txt'
+[0.741s] writing manifest file 'cone_inspection.egg-info/SOURCES.txt'
+[0.741s] running build_ext
+[0.741s] Creating /home/liv/argos_ws/src/install/cone_inspection/lib/python3.10/site-packages/cone-inspection.egg-link (link to .)
+[0.741s] 
+[0.742s] Installed /home/liv/argos_ws/src/build/cone_inspection
+[0.742s] running symlink_data
+[0.742s] creating /home/liv/argos_ws/src/install/cone_inspection/share/ament_index
+[0.742s] creating /home/liv/argos_ws/src/install/cone_inspection/share/ament_index/resource_index
+[0.742s] creating /home/liv/argos_ws/src/install/cone_inspection/share/ament_index/resource_index/packages
+[0.742s] symbolically linking /home/liv/argos_ws/src/build/cone_inspection/resource/cone_inspection -> /home/liv/argos_ws/src/install/cone_inspection/share/ament_index/resource_index/packages
+[0.742s] symbolically linking /home/liv/argos_ws/src/build/cone_inspection/package.xml -> /home/liv/argos_ws/src/install/cone_inspection/share/cone_inspection
+[0.742s] creating /home/liv/argos_ws/src/install/cone_inspection/share/cone_inspection/launch
+[0.742s] symbolically linking /home/liv/argos_ws/src/build/cone_inspection/launch/demo.launch.py -> /home/liv/argos_ws/src/install/cone_inspection/share/cone_inspection/launch
+[0.742s] creating /home/liv/argos_ws/src/install/cone_inspection/share/cone_inspection/urdf
+[0.742s] symbolically linking /home/liv/argos_ws/src/build/cone_inspection/urdf/ur3_cell.urdf.xacro -> /home/liv/argos_ws/src/install/cone_inspection/share/cone_inspection/urdf
+[0.742s] creating /home/liv/argos_ws/src/install/cone_inspection/share/cone_inspection/rviz
+[0.742s] symbolically linking /home/liv/argos_ws/src/build/cone_inspection/rviz/demo.rviz -> /home/liv/argos_ws/src/install/cone_inspection/share/cone_inspection/rviz
+[0.753s] Invoked command in '/home/liv/argos_ws/src/build/cone_inspection' returned '0': AMENT_PREFIX_PATH=/home/liv/argos_ws/src/install/ur_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/liv/argos_ws/src/install/ur_description:${CMAKE_PREFIX_PATH} PYTHONPATH=/home/liv/argos_ws/src/build/cone_inspection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/liv/argos_ws/src/install/cone_inspection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/liv/argos_ws/src/build/cone_inspection/build --no-deps symlink_data

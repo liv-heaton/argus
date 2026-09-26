@@ -1,0 +1,9 @@
+source;share/cone_inspection/hook/pythonpath.ps1
+source;share/cone_inspection/hook/pythonpath.dsv
+source;share/cone_inspection/hook/pythonpath.sh
+source;share/cone_inspection/hook/ament_prefix_path.ps1
+source;share/cone_inspection/hook/ament_prefix_path.dsv
+source;share/cone_inspection/hook/ament_prefix_path.sh
+source;../../build/cone_inspection/share/cone_inspection/hook/pythonpath_develop.ps1
+source;../../build/cone_inspection/share/cone_inspection/hook/pythonpath_develop.dsv
+source;../../build/cone_inspection/share/cone_inspection/hook/pythonpath_develop.sh

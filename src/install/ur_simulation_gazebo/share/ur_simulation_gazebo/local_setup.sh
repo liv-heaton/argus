@@ -1,0 +1,1 @@
+/home/liv/argos_ws/src/build/ur_simulation_gazebo/ament_cmake_environment_hooks/local_setup.sh

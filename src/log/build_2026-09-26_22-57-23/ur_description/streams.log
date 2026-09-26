@@ -1,0 +1,249 @@
+[0.007s] Invoking command in '/home/liv/argos_ws/src/build/ur_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/liv/helios_ws/install/fire_sim:/opt/ros/humble /usr/bin/cmake /home/liv/argos_ws/src/Universal_Robots_ROS2_Description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/liv/argos_ws/src/install/ur_description
+[0.072s] -- The C compiler identification is GNU 11.4.0
+[0.140s] -- The CXX compiler identification is GNU 11.4.0
+[0.145s] -- Detecting C compiler ABI info
+[0.194s] -- Detecting C compiler ABI info - done
+[0.200s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.202s] -- Detecting C compile features
+[0.202s] -- Detecting C compile features - done
+[0.204s] -- Detecting CXX compiler ABI info
+[0.290s] -- Detecting CXX compiler ABI info - done
+[0.295s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.295s] -- Detecting CXX compile features
+[0.295s] -- Detecting CXX compile features - done
+[0.303s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.441s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.482s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.509s] -- Found ament_cmake_pytest: 1.3.14 (/opt/ros/humble/share/ament_cmake_pytest/cmake)
+[0.875s] -- Configuring done
+[0.876s] -- Generating done
+[0.877s] -- Build files have been written to: /home/liv/argos_ws/src/build/ur_description
+[0.880s] Invoked command in '/home/liv/argos_ws/src/build/ur_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/liv/helios_ws/install/fire_sim:/opt/ros/humble /usr/bin/cmake /home/liv/argos_ws/src/Universal_Robots_ROS2_Description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/liv/argos_ws/src/install/ur_description
+[0.881s] Invoking command in '/home/liv/argos_ws/src/build/ur_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/liv/helios_ws/install/fire_sim:/opt/ros/humble /usr/bin/cmake --build /home/liv/argos_ws/src/build/ur_description -- -j24 -l24
+[0.922s] Invoked command in '/home/liv/argos_ws/src/build/ur_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/liv/helios_ws/install/fire_sim:/opt/ros/humble /usr/bin/cmake --build /home/liv/argos_ws/src/build/ur_description -- -j24 -l24
+[0.933s] Invoking command in '/home/liv/argos_ws/src/build/ur_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/liv/helios_ws/install/fire_sim:/opt/ros/humble /usr/bin/cmake --install /home/liv/argos_ws/src/build/ur_description
+[0.943s] -- Install configuration: ""
+[0.944s] -- Execute custom install script
+[0.945s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/initial_positions.yaml
+[0.951s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur10/default_kinematics.yaml
+[0.958s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur10/joint_limits.yaml
+[0.967s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur10/physical_parameters.yaml
+[0.978s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur10/visual_parameters.yaml
+[0.989s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur10e/default_kinematics.yaml
+[0.995s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur10e/joint_limits.yaml
+[1.001s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur10e/physical_parameters.yaml
+[1.007s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur10e/visual_parameters.yaml
+[1.015s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur12e/default_kinematics.yaml
+[1.023s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur12e/joint_limits.yaml
+[1.030s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur12e/physical_parameters.yaml
+[1.035s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur12e/visual_parameters.yaml
+[1.042s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur15/default_kinematics.yaml
+[1.048s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur15/joint_limits.yaml
+[1.054s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur15/physical_parameters.yaml
+[1.059s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur15/visual_parameters.yaml
+[1.065s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur16e/default_kinematics.yaml
+[1.071s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur16e/joint_limits.yaml
+[1.077s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur16e/physical_parameters.yaml
+[1.083s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur16e/visual_parameters.yaml
+[1.089s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur18/default_kinematics.yaml
+[1.095s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur18/joint_limits.yaml
+[1.101s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur18/physical_parameters.yaml
+[1.107s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur18/visual_parameters.yaml
+[1.112s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur20/default_kinematics.yaml
+[1.118s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur20/joint_limits.yaml
+[1.124s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur20/physical_parameters.yaml
+[1.129s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur20/visual_parameters.yaml
+[1.135s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur3/default_kinematics.yaml
+[1.141s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur3/joint_limits.yaml
+[1.145s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur3/physical_parameters.yaml
+[1.151s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur3/visual_parameters.yaml
+[1.155s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur30/default_kinematics.yaml
+[1.161s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur30/joint_limits.yaml
+[1.167s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur30/physical_parameters.yaml
+[1.171s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur30/visual_parameters.yaml
+[1.176s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur3e/default_kinematics.yaml
+[1.181s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur3e/joint_limits.yaml
+[1.187s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur3e/physical_parameters.yaml
+[1.192s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur3e/visual_parameters.yaml
+[1.196s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur5/default_kinematics.yaml
+[1.201s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur5/joint_limits.yaml
+[1.206s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur5/physical_parameters.yaml
+[1.212s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur5/visual_parameters.yaml
+[1.217s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur5e/default_kinematics.yaml
+[1.221s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur5e/joint_limits.yaml
+[1.226s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur5e/physical_parameters.yaml
+[1.233s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur5e/visual_parameters.yaml
+[1.239s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur7e/default_kinematics.yaml
+[1.243s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur7e/joint_limits.yaml
+[1.249s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur7e/physical_parameters.yaml
+[1.254s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur7e/visual_parameters.yaml
+[1.260s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur8long/default_kinematics.yaml
+[1.266s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur8long/joint_limits.yaml
+[1.272s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur8long/physical_parameters.yaml
+[1.276s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/config/ur8long/visual_parameters.yaml
+[1.280s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/launch/view_ur.launch.py
+[1.285s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/launch/view_ur.launch.xml
+[1.291s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10/collision/base.stl
+[1.300s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10/collision/forearm.stl
+[1.309s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10/collision/shoulder.stl
+[1.318s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10/collision/upperarm.stl
+[1.327s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10/collision/wrist1.stl
+[1.336s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10/collision/wrist2.stl
+[1.345s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10/collision/wrist3.stl
+[1.356s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10/visual/base.dae
+[1.364s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10/visual/forearm.dae
+[1.374s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10/visual/shoulder.dae
+[1.384s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10/visual/upperarm.dae
+[1.392s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10/visual/wrist1.dae
+[1.401s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10/visual/wrist2.dae
+[1.410s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10/visual/wrist3.dae
+[1.416s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10e/collision/base.stl
+[1.421s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10e/collision/forearm.stl
+[1.430s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10e/collision/shoulder.stl
+[1.437s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10e/collision/upperarm.stl
+[1.446s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10e/collision/wrist1.stl
+[1.456s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10e/collision/wrist2.stl
+[1.465s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10e/collision/wrist3.stl
+[1.474s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10e/visual/base.dae
+[1.483s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10e/visual/forearm.dae
+[1.490s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10e/visual/shoulder.dae
+[1.499s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10e/visual/upperarm.dae
+[1.508s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10e/visual/wrist1.dae
+[1.517s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10e/visual/wrist2.dae
+[1.524s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur10e/visual/wrist3.dae
+[1.535s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur15/LICENSE.txt
+[1.544s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur15/collision/base.stl
+[1.555s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur15/collision/forearm.stl
+[1.563s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur15/collision/shoulder.stl
+[1.572s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur15/collision/upperarm.stl
+[1.581s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur15/collision/wrist1.stl
+[1.591s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur15/collision/wrist2.stl
+[1.599s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur15/collision/wrist3.stl
+[1.607s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur15/visual/UR15_DIFF_8bit_2K.jpg
+[1.616s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur15/visual/base.dae
+[1.626s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur15/visual/forearm.dae
+[1.634s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur15/visual/shoulder.dae
+[1.643s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur15/visual/upperarm.dae
+[1.652s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur15/visual/wrist1.dae
+[1.661s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur15/visual/wrist2.dae
+[1.670s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur15/visual/wrist3.dae
+[1.680s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur16e/collision/forearm.stl
+[1.690s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur16e/collision/upperarm.stl
+[1.699s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur16e/visual/forearm.dae
+[1.708s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur16e/visual/upperarm.dae
+[1.717s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur18/LICENSE.txt
+[1.727s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur18/collision/forearm.stl
+[1.735s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur18/collision/upperarm.stl
+[1.743s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur18/visual/UR18_DIFF_8bit_2K.jpg
+[1.752s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur18/visual/forearm.dae
+[1.761s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur18/visual/upperarm.dae
+[1.770s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur20/LICENSE.txt
+[1.778s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur20/collision/base.stl
+[1.787s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur20/collision/forearm.stl
+[1.795s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur20/collision/shoulder.stl
+[1.803s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur20/collision/upperarm.stl
+[1.810s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur20/collision/wrist1.stl
+[1.820s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur20/collision/wrist2.stl
+[1.826s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur20/collision/wrist3.stl
+[1.833s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur20/visual/UR20_DIFF_8bit_2K.png
+[1.838s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur20/visual/base.dae
+[1.846s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur20/visual/forearm.dae
+[1.854s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur20/visual/shoulder.dae
+[1.862s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur20/visual/upperarm.dae
+[1.872s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur20/visual/wrist1.dae
+[1.881s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur20/visual/wrist2.dae
+[1.889s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur20/visual/wrist3.dae
+[1.897s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3/collision/base.stl
+[1.905s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3/collision/forearm.stl
+[1.913s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3/collision/shoulder.stl
+[1.923s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3/collision/upperarm.stl
+[1.931s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3/collision/wrist1.stl
+[1.939s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3/collision/wrist2.stl
+[1.949s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3/collision/wrist3.stl
+[1.959s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3/visual/base.dae
+[1.970s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3/visual/forearm.dae
+[1.979s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3/visual/shoulder.dae
+[1.987s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3/visual/upperarm.dae
+[1.992s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3/visual/wrist1.dae
+[1.998s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3/visual/wrist2.dae
+[2.003s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3/visual/wrist3.dae
+[2.007s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur30/LICENSE.txt
+[2.014s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur30/collision/forearm.stl
+[2.021s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur30/collision/upperarm.stl
+[2.030s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur30/visual/UR30_DIFF_8bit_2K.png
+[2.040s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur30/visual/forearm.dae
+[2.046s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur30/visual/upperarm.dae
+[2.053s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3e/collision/base.stl
+[2.059s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3e/collision/forearm.stl
+[2.064s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3e/collision/shoulder.stl
+[2.068s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3e/collision/upperarm.stl
+[2.076s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3e/collision/wrist1.stl
+[2.081s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3e/collision/wrist2.stl
+[2.088s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3e/collision/wrist3.stl
+[2.094s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3e/visual/base.dae
+[2.104s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3e/visual/forearm.dae
+[2.115s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3e/visual/shoulder.dae
+[2.123s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3e/visual/upperarm.dae
+[2.133s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3e/visual/wrist1.dae
+[2.143s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3e/visual/wrist2.dae
+[2.153s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur3e/visual/wrist3.dae
+[2.160s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5/collision/base.stl
+[2.166s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5/collision/forearm.stl
+[2.176s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5/collision/shoulder.stl
+[2.182s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5/collision/upperarm.stl
+[2.186s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5/collision/wrist1.stl
+[2.190s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5/collision/wrist2.stl
+[2.196s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5/collision/wrist3.stl
+[2.202s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5/visual/base.dae
+[2.207s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5/visual/forearm.dae
+[2.213s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5/visual/shoulder.dae
+[2.216s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5/visual/upperarm.dae
+[2.222s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5/visual/wrist1.dae
+[2.227s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5/visual/wrist2.dae
+[2.232s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5/visual/wrist3.dae
+[2.236s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5e/collision/base.stl
+[2.242s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5e/collision/forearm.stl
+[2.248s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5e/collision/shoulder.stl
+[2.254s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5e/collision/upperarm.stl
+[2.259s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5e/collision/wrist1.stl
+[2.263s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5e/collision/wrist2.stl
+[2.267s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5e/collision/wrist3.stl
+[2.273s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5e/visual/base.dae
+[2.279s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5e/visual/forearm.dae
+[2.283s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5e/visual/shoulder.dae
+[2.287s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5e/visual/upperarm.dae
+[2.291s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5e/visual/wrist1.dae
+[2.296s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5e/visual/wrist2.dae
+[2.302s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur5e/visual/wrist3.dae
+[2.311s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur8long/LICENSE.txt
+[2.320s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur8long/collision/forearm.stl
+[2.329s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur8long/collision/upperarm.stl
+[2.339s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur8long/visual/UR8Long_DIFF_8bit_2K.jpg
+[2.346s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur8long/visual/forearm.dae
+[2.356s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/meshes/ur8long/visual/upperarm.dae
+[2.366s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/rviz/view_robot.rviz
+[2.375s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/urdf/compare_fk.py
+[2.383s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/urdf/inc/ur_common.xacro
+[2.391s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/urdf/inc/ur_transmissions.xacro
+[2.399s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/urdf/ur.ros2_control.xacro
+[2.407s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/urdf/ur.urdf.xacro
+[2.415s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/urdf/ur3_cell.urdf.xacro
+[2.423s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/urdf/ur_macro.xacro
+[2.432s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/test/test_ur_urdf_xacro.py
+[2.440s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/test/test_view_ur_launch.py
+[2.446s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ament_index/resource_index/package_run_dependencies/ur_description
+[2.457s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ament_index/resource_index/parent_prefix_path/ur_description
+[2.466s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/environment/ament_prefix_path.sh
+[2.476s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/environment/ament_prefix_path.dsv
+[2.485s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/environment/path.sh
+[2.495s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/environment/path.dsv
+[2.504s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/local_setup.bash
+[2.514s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/local_setup.sh
+[2.520s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/local_setup.zsh
+[2.528s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/local_setup.dsv
+[2.538s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/package.dsv
+[2.543s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ament_index/resource_index/packages/ur_description
+[2.551s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/cmake/ur_descriptionConfig.cmake
+[2.561s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/cmake/ur_descriptionConfig-version.cmake
+[2.569s] -- Symlinking: /home/liv/argos_ws/src/install/ur_description/share/ur_description/package.xml
+[2.580s] Invoked command in '/home/liv/argos_ws/src/build/ur_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/liv/helios_ws/install/fire_sim:/opt/ros/humble /usr/bin/cmake --install /home/liv/argos_ws/src/build/ur_description
