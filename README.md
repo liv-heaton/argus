@@ -5,5 +5,5 @@ Industrial Robotics Repo
 
 After building, in argos_ws/:
 
-``` ros2 launch cone_inspection demo.launch.py 
-```
+``` ros2 launch cone_inspection task.launch.py ```
+
