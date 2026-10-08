@@ -200,6 +200,7 @@
 /home/liv/argos_ws/install/ur_description/share/ur_description/urdf/inc/ur_transmissions.xacro
 /home/liv/argos_ws/install/ur_description/share/ur_description/urdf/ur.ros2_control.xacro
 /home/liv/argos_ws/install/ur_description/share/ur_description/urdf/ur.urdf.xacro
+/home/liv/argos_ws/install/ur_description/share/ur_description/urdf/ur3_cell.urdf.xacro
 /home/liv/argos_ws/install/ur_description/share/ur_description/urdf/ur_macro.xacro
 /home/liv/argos_ws/install/ur_description/share/ur_description/test/test_ur_urdf_xacro.py
 /home/liv/argos_ws/install/ur_description/share/ur_description/test/test_view_ur_launch.py

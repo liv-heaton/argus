@@ -1,0 +1,31 @@
+[0.510s] Invoking command in '/home/liv/argos_ws/build/cone_inspection': CMAKE_PREFIX_PATH=/home/liv/argos_ws/install/ur_description:/home/liv/argos_ws/install/ur_simulation_gz:/home/liv/argos_ws/install/ur_simulation_gazebo:/home/liv/helios_ws/install/fire_sensors:/home/liv/helios_ws/install/fire_satellite:/home/liv/helios_ws/install/fire_drone:/home/liv/helios_ws/install/fire_autonomy:/home/liv/helios_ws/install/41068_ignition_bringup:/home/liv/41068_ws/install/41068_ignition_bringup PYTHONPATH=/home/liv/argos_ws/build/cone_inspection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/liv/argos_ws/install/cone_inspection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/liv/argos_ws/build/cone_inspection/build --no-deps symlink_data
+[0.648s] running develop
+[0.726s] running egg_info
+[0.726s] creating cone_inspection.egg-info
+[0.726s] writing cone_inspection.egg-info/PKG-INFO
+[0.727s] writing dependency_links to cone_inspection.egg-info/dependency_links.txt
+[0.727s] writing entry points to cone_inspection.egg-info/entry_points.txt
+[0.727s] writing requirements to cone_inspection.egg-info/requires.txt
+[0.727s] writing top-level names to cone_inspection.egg-info/top_level.txt
+[0.727s] writing manifest file 'cone_inspection.egg-info/SOURCES.txt'
+[0.727s] reading manifest file 'cone_inspection.egg-info/SOURCES.txt'
+[0.727s] writing manifest file 'cone_inspection.egg-info/SOURCES.txt'
+[0.728s] running build_ext
+[0.728s] Creating /home/liv/argos_ws/install/cone_inspection/lib/python3.10/site-packages/cone-inspection.egg-link (link to .)
+[0.729s] Installing task_node script to /home/liv/argos_ws/install/cone_inspection/lib/cone_inspection
+[0.729s] 
+[0.729s] Installed /home/liv/argos_ws/build/cone_inspection
+[0.729s] running symlink_data
+[0.729s] creating /home/liv/argos_ws/install/cone_inspection/share/ament_index
+[0.730s] creating /home/liv/argos_ws/install/cone_inspection/share/ament_index/resource_index
+[0.730s] creating /home/liv/argos_ws/install/cone_inspection/share/ament_index/resource_index/packages
+[0.730s] symbolically linking /home/liv/argos_ws/build/cone_inspection/resource/cone_inspection -> /home/liv/argos_ws/install/cone_inspection/share/ament_index/resource_index/packages
+[0.730s] symbolically linking /home/liv/argos_ws/build/cone_inspection/package.xml -> /home/liv/argos_ws/install/cone_inspection/share/cone_inspection
+[0.730s] creating /home/liv/argos_ws/install/cone_inspection/share/cone_inspection/launch
+[0.730s] symbolically linking /home/liv/argos_ws/build/cone_inspection/launch/task.launch.py -> /home/liv/argos_ws/install/cone_inspection/share/cone_inspection/launch
+[0.730s] symbolically linking /home/liv/argos_ws/build/cone_inspection/launch/demo.launch.py -> /home/liv/argos_ws/install/cone_inspection/share/cone_inspection/launch
+[0.730s] creating /home/liv/argos_ws/install/cone_inspection/share/cone_inspection/urdf
+[0.730s] symbolically linking /home/liv/argos_ws/build/cone_inspection/urdf/ur3_cell.urdf.xacro -> /home/liv/argos_ws/install/cone_inspection/share/cone_inspection/urdf
+[0.730s] creating /home/liv/argos_ws/install/cone_inspection/share/cone_inspection/rviz
+[0.730s] symbolically linking /home/liv/argos_ws/build/cone_inspection/rviz/demo.rviz -> /home/liv/argos_ws/install/cone_inspection/share/cone_inspection/rviz
+[0.741s] Invoked command in '/home/liv/argos_ws/build/cone_inspection' returned '0': CMAKE_PREFIX_PATH=/home/liv/argos_ws/install/ur_description:/home/liv/argos_ws/install/ur_simulation_gz:/home/liv/argos_ws/install/ur_simulation_gazebo:/home/liv/helios_ws/install/fire_sensors:/home/liv/helios_ws/install/fire_satellite:/home/liv/helios_ws/install/fire_drone:/home/liv/helios_ws/install/fire_autonomy:/home/liv/helios_ws/install/41068_ignition_bringup:/home/liv/41068_ws/install/41068_ignition_bringup PYTHONPATH=/home/liv/argos_ws/build/cone_inspection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/liv/argos_ws/install/cone_inspection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/liv/argos_ws/build/cone_inspection/build --no-deps symlink_data

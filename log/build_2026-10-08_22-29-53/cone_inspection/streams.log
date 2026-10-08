@@ -1,0 +1,17 @@
+[0.518s] Invoking command in '/home/liv/argos_ws/build/cone_inspection': CMAKE_PREFIX_PATH=/home/liv/argos_ws/install/ur_description:/home/liv/argos_ws/install/ur_simulation_gz:/home/liv/argos_ws/install/ur_simulation_gazebo:/home/liv/helios_ws/install/fire_sensors:/home/liv/helios_ws/install/fire_satellite:/home/liv/helios_ws/install/fire_drone:/home/liv/helios_ws/install/fire_autonomy:/home/liv/helios_ws/install/41068_ignition_bringup:/home/liv/41068_ws/install/41068_ignition_bringup PYTHONPATH=/home/liv/argos_ws/build/cone_inspection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/liv/argos_ws/install/cone_inspection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/liv/argos_ws/build/cone_inspection/build --no-deps symlink_data
+[0.665s] running develop
+[0.760s] running egg_info
+[0.760s] writing cone_inspection.egg-info/PKG-INFO
+[0.760s] writing dependency_links to cone_inspection.egg-info/dependency_links.txt
+[0.760s] writing entry points to cone_inspection.egg-info/entry_points.txt
+[0.760s] writing requirements to cone_inspection.egg-info/requires.txt
+[0.760s] writing top-level names to cone_inspection.egg-info/top_level.txt
+[0.761s] reading manifest file 'cone_inspection.egg-info/SOURCES.txt'
+[0.762s] writing manifest file 'cone_inspection.egg-info/SOURCES.txt'
+[0.762s] running build_ext
+[0.762s] Creating /home/liv/argos_ws/install/cone_inspection/lib/python3.10/site-packages/cone-inspection.egg-link (link to .)
+[0.763s] Installing task_node script to /home/liv/argos_ws/install/cone_inspection/lib/cone_inspection
+[0.763s] 
+[0.763s] Installed /home/liv/argos_ws/build/cone_inspection
+[0.763s] running symlink_data
+[0.777s] Invoked command in '/home/liv/argos_ws/build/cone_inspection' returned '0': CMAKE_PREFIX_PATH=/home/liv/argos_ws/install/ur_description:/home/liv/argos_ws/install/ur_simulation_gz:/home/liv/argos_ws/install/ur_simulation_gazebo:/home/liv/helios_ws/install/fire_sensors:/home/liv/helios_ws/install/fire_satellite:/home/liv/helios_ws/install/fire_drone:/home/liv/helios_ws/install/fire_autonomy:/home/liv/helios_ws/install/41068_ignition_bringup:/home/liv/41068_ws/install/41068_ignition_bringup PYTHONPATH=/home/liv/argos_ws/build/cone_inspection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/liv/argos_ws/install/cone_inspection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/liv/argos_ws/build/cone_inspection/build --no-deps symlink_data

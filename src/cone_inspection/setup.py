@@ -20,5 +20,7 @@ setup(
     maintainer_email='you@example.com',
     description='UR3 picks up a GoPro and inspects a traffic cone',
     license='MIT',
-    entry_points={'console_scripts': []},
+    entry_points={'console_scripts': [
+        'task_node = cone_inspection.task_node:main',
+    ],},
 )
